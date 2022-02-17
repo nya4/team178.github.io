@@ -39,5 +39,4 @@ Located in Farmington, CT, Farmington Public Schools is committed to helping all
 <a target="_blank" href="https://www.travelers.com"><img class="float-left" alt="Travelers Logo" style="width: 200px;" src="{{ site.url }}/assets/img/sponsors/travelers-logo.png" /></a>
 Travelers is an insurance leader, committed to keeping pace with the ever-changing needs of their customers, and anticipating their needs for the future.
 
-### <a target="_blank" href="http://www.farmingtonchamber.com">Farmington Chamber of Commerce (Bronze Sponsor)
-The Farmington Chamber of Commerce is our town's local chamber of commerce with over 200 members that strives to create a network of local leaders and to pool the talents, skills, and resources of Farmington to support our town and improve our community.
+
